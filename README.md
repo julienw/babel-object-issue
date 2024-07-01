@@ -28,3 +28,4 @@ Object.defineProperty(exports, "__esModule", {
 The problem is that the same file defines another Object class that shadows the
 standard class.
 
+Reported in https://github.com/babel/babel/issues/16601
